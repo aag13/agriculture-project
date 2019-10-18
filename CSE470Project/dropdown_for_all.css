@@ -1,0 +1,71 @@
+/*For the drop down menu*/
+.sitename
+{
+font-size : 40px;
+font-family : Monotype Corsiva;
+font-size : 55px;
+font-weight : bolder;
+color : #9E9E9E;
+text-decoration : none;
+position : absolute;
+top : 20px;
+left : 50px;
+}
+.sitename:hover
+{
+color : #BDBDBD;
+}
+.dropdown
+{
+position : absolute;
+top : 10px;
+left : 1030px;
+}
+
+.dropdown li 
+{
+display: block;
+position: relative;
+float: left;
+}
+.dropdown li a 
+{
+display: block;
+padding: 25px;
+text-decoration: none;
+color : black;
+white-space: nowrap;
+}
+.dropdown li a:hover 
+{
+background: #F5F6FC;
+color : #78909C;
+border-radius : 30px;
+}
+/*End of drop down menu*/
+
+/*For for boxing the background*/
+.bodyboxing
+{
+position : absolute;
+padding-bottom : 100%;
+width : 1320px;
+border : 1px solid #C1CDCD;
+border-radius : 30px;
+box-shadow : 20px 20px 20px #aaa;
+}
+/*End of boxing*/
+/*For the End portion*/
+.end 
+{
+position : absolute;
+top : 100%;/*Don't forget to make it 45%*/
+background-color : #263238;
+width : 1330px;
+padding-bottom : 300px; 
+color : #CFD8DC;
+text-align : center;
+border-radius: 30px;
+}
+/*End of the end portion*/
+
