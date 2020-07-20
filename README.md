@@ -4,6 +4,8 @@
 regularly to help farmers make decisions on which crop to plant based on the most recent information of
 cultivated crops*
 
+**Language/platform/Libraries Used: PHP, HTML, CSS, JavaScript, MySQL**
+
 # How To Setup
 1. install WAMP
 2. place "CSE470Project" folder in wamp64\www\ directory
