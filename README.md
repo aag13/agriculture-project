@@ -11,12 +11,9 @@
 # Group Project Credit
 *  Data Research & Collection : Mohaimanur
 *  Website Structure & Design (Template, Images) : Wasif
-*  Entire Backend Functionality & Design (Tables, Forms, Graphs) : Asadullah
+*  Entire Backend Functionality & Design (Tables, Forms, Graphs) : aag13
 
 
 # Sample Username & Password
 *  Username : shafiq
 *  Password : 1234
-
-
-*Kindly contact me if you want to work on this project or use the code in any way.*
