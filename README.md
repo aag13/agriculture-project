@@ -1,4 +1,8 @@
-# agroSoft, an agricultural management application with primary focus on crop prediction
+# agroSoft, An agricultural management application with primary focus on crop prediction
+
+*Key Features: A platform to collect various crop related information and update them in a central database
+regularly to help farmers make decisions on which crop to plant based on the most recent information of
+cultivated crops*
 
 # How To Setup
 1. install WAMP
